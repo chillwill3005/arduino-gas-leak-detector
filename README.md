@@ -10,7 +10,6 @@ The video shows the system's baseline state, then controlled gas exposure via a 
 ## Inputs and Outputs
 
 ### Inputs
-Inputs
 - MQ-5 gas sensor (digital threshold output indicating gas presence)
 - Power input (USB or 9V battery)
 
