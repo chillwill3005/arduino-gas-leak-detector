@@ -32,7 +32,7 @@ This repository includes schematic documentation, physical hardware verification
 - **`PGLDS Schematic (Fritzing).pdf`**  
   Breadboard schematic created using Fritzing, showing all electrical connections between the Arduino Uno, MQ-5 gas sensor, LED indicator, current-limiting resistors, and buzzer. This schematic serves as the primary circuit reference.
 
-- **`Physical Wiring Layout PGLDS.png`**  
+- **`PGLDS Physical Wiring Layout.png`**  
   Photograph of the completed physical prototype assembled on a breadboard. This image verifies real-world implementation and confirms consistency with the schematic design.
 
 ---
