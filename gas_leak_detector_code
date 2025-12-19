@@ -2,11 +2,6 @@
 -------------------------------------------------------
 LPG Gas Leakage Detection System using Arduino UNO
 -------------------------------------------------------
-Description:
-Uses an MQ-5 gas sensor (digital output) to detect the
-presence of combustible gases. When gas is detected,
-a visual (LED) and audible (buzzer) alert are triggered.
--------------------------------------------------------
 */
 
 // Pin Definitions
