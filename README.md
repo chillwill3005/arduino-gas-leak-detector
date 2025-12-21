@@ -40,17 +40,17 @@ This repository includes schematic documentation, physical hardware verification
 ### System Operation/Results
 
 - **`baseline_no_gas_reading.png`**  
-  Serial Monitor outputs, "Environment Normal" showing the baseline sensor reading with no gas present.
+  - Serial Monitor outputs, "Environment Normal" showing the baseline sensor reading with no gas present.
 
 - **`baseline_no_gas_outputs.png`**  
   - System output state during normal operation, with the LED and buzzer inactive, indicating no gas detection.
   - (Note: LED still emits light, but is dimmer than its Gas Detected State)
 
 - **`gas_detected_reading.png`**  
-  Serial Monitor outputs the notification, "!! Gas Leak Detected !!" when a gas exposure is detected. This demonstrates a clear sensor response.
+  - Serial Monitor outputs the notification, "!! Gas Leak Detected !!" when a gas exposure is detected. This demonstrates a clear sensor response.
 
 - **`gas_detected_outputs.png`**  
-  System output state when gas is detected, showing LED activation and buzzer alert behavior.
+  - System output state when gas is detected, showing LED activation and buzzer alert behavior.
 
 ---
 
